@@ -1,6 +1,6 @@
 # Understanding Volatile and Non-Volatile Storage
 
-- Storage is a fundamental component that determines how data is retained and accessed. Storage can broadly be classified into two categories: volatile and non-volatile. This tutorial will explain the differences between these two types of storage.
+- Storage can be divided into two main types: volatile and non-volatile, each with distinct characteristics and use cases. This tutorial will show the differences between the two types of storage.
 
 ### Volatile Versus Non-Volatile Storage
 
