@@ -1,2 +1,9 @@
-# Volatile-vs-Non-Volatile-storage
-This repository will discuss the differences between volatile and non-volatile storage.
+# Understanding Volatile and Non-Volatile Storage
+
+## Volatile Storage
+- Requires power to retain data
+- Examples: RAM, Cache
+
+## Non-Volatile Storage
+- Retains data without power
+- Examples: HDD, SSD
